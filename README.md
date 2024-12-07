@@ -1,6 +1,3 @@
-# Projeto para a matéria de Prática Integradora Tecnologias Disruptivas da Faculdade Descomplica
-
-Projeto criado usando as bibliotecas React JS e Material UI.
 
 ## Passo-a-passo para execução
 
@@ -17,11 +14,6 @@ Projeto criado usando as bibliotecas React JS e Material UI.
    `
    yarn start
 `
-
-## Descrição do projeto
-
-Este projeto foi desenvolvido para aprendizado e prática com versionamento de código, utilizando as bibliotecas React JS
-e Material UI.
 
 ## Tecnologias utilizadas
 
